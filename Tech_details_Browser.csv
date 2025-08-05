@@ -1,0 +1,18 @@
+# ----------------------------------------
+# Tech details: Browser
+# Account: TeeFusion Wordpress
+# Property: TeeFusion Wordpress
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20250201
+# End date: 20250804
+Browser,Active users,New users,Engaged sessions,Engagement rate,Engaged sessions per active user,Average engagement time per active user,Event count,Key events,Total revenue
+Android Webview,1094,1060,602,0.5176268271711092,0.5502742230347349,24.319926873857405,16995,0,0
+Chrome,865,850,837,0.6394194041252865,0.9676300578034682,70.36184971098265,39264,22,0
+Safari (in-app),110,106,56,0.47863247863247865,0.509090909090909,14.7,1479,0,0
+Safari,37,30,29,0.48333333333333334,0.7837837837837838,33.432432432432435,754,0,0
+Edge,9,9,14,0.8235294117647058,1.5555555555555556,92.11111111111111,532,2,0
+Samsung Internet,3,3,0,0,0,1.3333333333333333,13,0,0
+Firefox,2,2,2,1,1,12,17,0,0
+Opera,1,1,1,0.5,1,66,10,0,0
